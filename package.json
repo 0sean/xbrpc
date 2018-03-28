@@ -1,0 +1,30 @@
+{
+  "name": "xbrpc",
+  "version": "1.0.0",
+  "description": "Discord Rich Presence to showcase what you're playing on Xbox.",
+  "main": "rpc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theanidox/xbrpc.git"
+  },
+  "keywords": [
+    "xbox",
+    "discord",
+    "rich",
+    "presence"
+  ],
+  "author": "Anidox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theanidox/xbrpc/issues"
+  },
+  "homepage": "https://github.com/theanidox/xbrpc#readme",
+  "dependencies": {
+    "discord-rpc": "^3.0.0-beta.9",
+    "request": "^2.85.0",
+    "request-promise-native": "^1.0.5"
+  }
+}

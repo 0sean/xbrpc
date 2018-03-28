@@ -1,0 +1,6 @@
+{
+  "client_id": "427896754646679553",
+  "xuid": "Your Xbox XUID - Get this with XboxAPI (view the docs, will auto use key if logged in)",
+  "xboxapi_key": "Your XboxAPI key - Get this at XboxAPI.com",
+  "show_gamertag": true
+}
