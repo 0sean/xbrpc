@@ -1,3 +1,5 @@
+# This is no longer neccessary as Discord has added this, except way better. Archived.
+
 # XBRPC
 Discord Rich Presence to showcase what you're playing on Xbox.
 
